@@ -1,0 +1,18 @@
+* {
+font-family: arial;
+}
+body {
+margin: 20px;
+}
+h2 {
+text-align: center;
+color: pink;
+}
+a {
+color: blue;
+text-decoration: none;
+float: right;
+}
+a:hover {
+text-decoration: underline;
+}

@@ -1,0 +1,17 @@
+/* Paragraphes en bleu par défaut */
+h1
+{
+    color: blue;
+}
+
+/* Nouvelles règles si la fenêtre fait au plus 1024px de large */
+@media screen and (max-width: 1024px)
+{
+    h1
+    {
+        color: red; 
+        background-color: black;
+        font-size: 1.2em;
+    }
+}
+

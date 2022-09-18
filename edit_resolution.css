@@ -1,0 +1,27 @@
+/* Paragraphes en bleu par défaut */
+h3
+{
+    color: blue;
+}
+.checkbox
+{
+    color: blue;
+}
+
+/* Nouvelles règles si la fenêtre fait au plus 1024px de large */
+@media screen and (max-width: 1024px)
+{
+    h3
+    {
+        color: red; 
+        background-color: black;
+        font-size: 1.2em;
+    }
+    .checkbox
+    {
+        color: red; 
+        background-color: black;
+        font-size: 1.2em;
+    }
+}
+

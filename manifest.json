@@ -1,0 +1,24 @@
+{
+  "short_name": "epse",
+  "name": "entreprise",
+  "description": "logiciel de gestion d'entreprise",
+  "icons": [
+    {
+      "src": "./image/apple-touch-icon.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "./image/apple-touch-icon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "login.php",
+  "id": "login.php",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "login.php",
+  "theme_color": "#3367D6"
+}
