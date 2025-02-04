@@ -1,2 +1,2 @@
 # gestion_entreprise
-Authentification, CRUD entreprise, rechercher entreprise, invisibilité de certaines parties et accès mobile
+Authentification, CRUD entreprise, rechercher entreprise, parties invisibles et accès mobile.
